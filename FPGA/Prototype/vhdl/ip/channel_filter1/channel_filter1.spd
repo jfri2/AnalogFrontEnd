@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file path="channel_filter1_sim/altera_avalon_sc_fifo.v" type="VERILOG" />
+ <file path="channel_filter1_sim/auk_dspip_math_pkg_hpfir.vhd" type="VHDL" />
+ <file path="channel_filter1_sim/auk_dspip_lib_pkg_hpfir.vhd" type="VHDL" />
+ <file
+   path="channel_filter1_sim/auk_dspip_avalon_streaming_controller_hpfir.vhd"
+   type="VHDL" />
+ <file
+   path="channel_filter1_sim/auk_dspip_avalon_streaming_sink_hpfir.vhd"
+   type="VHDL" />
+ <file
+   path="channel_filter1_sim/auk_dspip_avalon_streaming_source_hpfir.vhd"
+   type="VHDL" />
+ <file path="channel_filter1_sim/auk_dspip_roundsat_hpfir.vhd" type="VHDL" />
+ <file path="channel_filter1_sim/dspba_library_package.vhd" type="VHDL" />
+ <file path="channel_filter1_sim/dspba_library.vhd" type="VHDL" />
+ <file path="channel_filter1_sim/channel_filter1_rtl_rm.hex" type="HEX" />
+ <file
+   path="channel_filter1_sim/channel_filter1_rtl_u0_m0_wo0_cm0.hex"
+   type="HEX" />
+ <file
+   path="channel_filter1_sim/channel_filter1_rtl_u0_m0_wo0_cm1.hex"
+   type="HEX" />
+ <file
+   path="channel_filter1_sim/channel_filter1_rtl_u0_m0_wo0_cm2.hex"
+   type="HEX" />
+ <file
+   path="channel_filter1_sim/channel_filter1_rtl_u0_m0_wo0_cm3.hex"
+   type="HEX" />
+ <file
+   path="channel_filter1_sim/channel_filter1_rtl_u0_m0_wo0_cm4.hex"
+   type="HEX" />
+ <file
+   path="channel_filter1_sim/channel_filter1_rtl_u0_m0_wo0_cm5.hex"
+   type="HEX" />
+ <file
+   path="channel_filter1_sim/channel_filter1_rtl_u0_m0_wo0_cm6.hex"
+   type="HEX" />
+ <file
+   path="channel_filter1_sim/channel_filter1_rtl_u0_m0_wo0_cm7.hex"
+   type="HEX" />
+ <file
+   path="channel_filter1_sim/channel_filter1_rtl_u0_m0_wo0_cm8.hex"
+   type="HEX" />
+ <file
+   path="channel_filter1_sim/channel_filter1_rtl_u0_m0_wo0_cm9.hex"
+   type="HEX" />
+ <file path="channel_filter1_sim/channel_filter1_rtl.vhd" type="VHDL" />
+ <file path="channel_filter1_sim/channel_filter1_ast.vhd" type="VHDL" />
+ <file path="channel_filter1_sim/channel_filter1.vhd" type="VHDL" />
+ <file
+   path="channel_filter1_sim/channel_filter1_nativelink.tcl"
+   type="OTHER" />
+ <file path="channel_filter1_sim/channel_filter1_msim.tcl" type="OTHER" />
+ <file path="channel_filter1_sim/channel_filter1_tb.vhd" type="VHDL" />
+ <file path="channel_filter1_sim/channel_filter1_mlab.m" type="OTHER" />
+ <file path="channel_filter1_sim/channel_filter1_model.m" type="OTHER" />
+ <file path="channel_filter1_sim/channel_filter1_coef_int.txt" type="OTHER" />
+ <file
+   path="channel_filter1_sim/channel_filter1_coef_reload.txt"
+   type="OTHER" />
+ <file
+   path="channel_filter1_sim/channel_filter1_coef_reload_rtl.txt"
+   type="OTHER" />
+ <file path="channel_filter1_sim/channel_filter1_input.txt" type="OTHER" />
+ <file path="channel_filter1_sim/channel_filter1_param.txt" type="OTHER" />
+ <topLevel name="channel_filter1" />
+ <deviceFamily name="cycloneii" />
+</simPackage>
